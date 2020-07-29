@@ -1,9 +1,7 @@
 # ML-in-Agriculture-Crop-Failure-Prediction
 Link: https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#ProblemStatement
 
-My Performance: Top 2% (Total Participants ~ 14900)
-Public Leaderboard: 207
-Private Leaderboard: 180
+My Performance: Top 2% (Total Participants ~ 14900), Public Leaderboard: 207, Private Leaderboard: 180
 
 Final Model Chosen: Lightgbm
 
