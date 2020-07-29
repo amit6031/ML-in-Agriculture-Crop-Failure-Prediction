@@ -19,7 +19,7 @@ Pesticides are also special, because while they protect the crop with the right 
 
 ## Data Description
 
-Variable	                Definition
+Variable	                
 
 ID:                       UniqueID
 
